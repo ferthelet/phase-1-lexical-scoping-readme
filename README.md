@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Explain the concept of lexical scoping.
-- Describe how lexical scoping informs the scope chain of a function.
+- Explain the concept of lexical scoping
+- Describe how lexical scoping informs the scope chain of a function
 
 ## Introduction
 
